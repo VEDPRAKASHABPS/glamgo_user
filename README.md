@@ -12,9 +12,8 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 ![WhatsApp Image 2024-05-09 at 00 51 54_9b4039fa](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/9f82946e-e2ce-4379-ae44-1151183df983)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
 ![WhatsApp Image 2024-05-09 at 00 52 45_866f9e58](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/d9a89e53-3a17-4ce1-9e73-2fb82ed4f617)
 ![WhatsApp Image 2024-05-09 at 00 52 40_62abef3e](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/5d017a2e-bf3b-4d9a-8c55-b34d79a4fbf6)
 ![WhatsApp Image 2024-05-09 at 00 52 39_d4f336ff](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/2bedf8c9-145b-46e3-9110-f87ccccc3146)
