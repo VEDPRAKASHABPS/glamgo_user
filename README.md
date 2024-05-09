@@ -14,4 +14,4 @@
 ![WhatsApp Image 2024-05-09 at 00 51 43_c99c9e7e](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/975b8c3d-25ae-42f1-b4c8-95df2b93bfab)
 ![WhatsApp Image 2024-05-09 at 00 51 43_7897edbe](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/e22f3889-bc29-44c8-aa99-b42330aba0f0)
 ![WhatsApp Image 2024-05-09 at 00 51 42_8d9ed0b3](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/bdf62c6a-605f-4568-b928-276bfeede5e0)
-![WhatsApp Image 2024-05-09 at 00 52 47_b9efc228](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/9c6c1991-9ca0-41ec-9969-545428f9ed66)
+
