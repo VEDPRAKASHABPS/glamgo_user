@@ -56,7 +56,7 @@ GlamGo is a modern Flutter-based mobile application designed to connect users wi
 
 - **Flutter** (Frontend)
 - **Firebase** (Auth, Firestore, Storage)
-- **GetX** (State management and routing)
+- **Provider** (State management and routing)
 - **Google Maps** (Salon location)
 - **Custom Animations & Responsive Design**
 
