@@ -62,10 +62,33 @@ GlamGo is a modern Flutter-based mobile application designed to connect users wi
 
 ---
 
-## 🛠️ Installation
 
-1. **Clone the repo**
+## 🧑‍💻 Developer Info
 
-```bash
-git clone https://github.com/VEDPRAKASHABPS/glamgo_user.git
-cd glamgo_user
+**Ved Prakash**  
+📧 Email: [vedprakashabps@gmail.com](mailto:vedprakashabps@gmail.com)  
+📞 Contact: +91 9472795244  
+🌍 Location: Bangalore, India  
+👨‍💼 Flutter Developer | ABHA Integration Expert
+
+---
+
+
+<h3>🛠️ Installation</h3>
+
+<ol>
+  <li><strong>Clone the repository</strong></li>
+
+  <pre><code>git clone https://github.com/VEDPRAKASHABPS/grocery.git
+cd grocery</code></pre>
+
+  <li><strong>Install dependencies</strong></li>
+
+  <pre><code>flutter pub get</code></pre>
+
+  <li><strong>Run the app</strong></li>
+
+  <pre><code>flutter run</code></pre>
+</ol>
+
+<p>⚠️ Make sure Firebase is configured and you have added the correct <code>google-services.json</code> (Android) or <code>GoogleService-Info.plist</code> (iOS) file before running the app.</p>
