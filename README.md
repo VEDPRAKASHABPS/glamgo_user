@@ -5,18 +5,36 @@ GlamGo is a modern Flutter-based mobile application designed to connect users wi
 ---
 
 ## 📱 Screenshots
-
-| Onboarding | Home Screen | Service List | Salon Profile |
-|------------|-------------|--------------|----------------|
-![Onboarding](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/10eb01ad-3d56-4079-8b51-7c94bd5b9897)
-![Home](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/d9a89e53-3a17-4ce1-9e73-2fb82ed4f617)
-![Services](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/5d017a2e-bf3b-4d9a-8c55-b34d79a4fbf6)
-![Profile](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/2bedf8c9-145b-46e3-9110-f87ccccc3146)
-
-More Screens:
-- ![Image1](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/bff4d2c9-9e15-4420-802a-c5bbceacd116)
-- ![Image2](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/b4e34cb2-147d-45f3-8809-f2284b0c918e)
-- ![Image3](https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/34193bf4-7984-4b40-9519-f15f42bec115)
+<table>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/10eb01ad-3d56-4079-8b51-7c94bd5b9897" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/d9a89e53-3a17-4ce1-9e73-2fb82ed4f617" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/5d017a2e-bf3b-4d9a-8c55-b34d79a4fbf6" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/2bedf8c9-145b-46e3-9110-f87ccccc3146" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/bff4d2c9-9e15-4420-802a-c5bbceacd116" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/b4e34cb2-147d-45f3-8809-f2284b0c918e" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/34193bf4-7984-4b40-9519-f15f42bec115" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/5c3adc9c-1d33-4f00-aee6-6edffc50f4fb" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/e0c38ea9-7718-41e3-bf36-fb198167e127" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/a2c38272-51bf-4119-85b1-ff4118b21f1c" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/2c7ec9a7-c0e6-48ce-acef-564cec3ff226" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/739c9476-f4bf-460e-8f03-b9954305a461" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/ffa2f164-d382-4396-bb5c-287ec2364603" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/975b8c3d-25ae-42f1-b4c8-95df2b93bfab" width="200"></td>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/e22f3889-bc29-44c8-aa99-b42330aba0f0" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/VEDPRAKASHABPS/glamgo_user/assets/125896446/bdf62c6a-605f-4568-b928-276bfeede5e0" width="200"></td>
+  </tr>
+</table>
 
 ---
 
